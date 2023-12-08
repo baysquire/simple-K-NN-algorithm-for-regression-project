@@ -9,7 +9,7 @@ from sklearn.neighbors import KNeighborsRegressor
 from sklearn import metrics
 
 # Load data 
-project_data = pd.read_csv("rbsn_credit_card.csv")
+project_data = pd.read_csv("credit_card.csv")
 
 # separate data
 X = project_data.drop('Class', axis =1)
