@@ -1,4 +1,4 @@
-# simple-K-NN-algorithm-for-regression-project
+# Simple K-NN algorithm for regression project
 
 This code loads a dataset (credit_card.csv) using Pandas, performs data splitting, and utilizes the scikit-learn library to train a K-Nearest Neighbors (K-NN) regression model on the data.
 
